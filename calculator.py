@@ -1,18 +1,18 @@
 # This function adds two numbers
-def add(x, y):
-    return x + y
+def add(s, d):
+    return s + d
 
 # This function subtracts two numbers
-def subtract(x, y):
-    return x - y
+def subtract(s, d):
+    return s - d
 
 # This function multiplies two numbers
-def multiply(x, y):
-    return x * y
+def multiply(s, d):
+    return s * d
 
 # This function divides two numbers
-def divide(x, y):
-    return x / y
+def divide(s, d):
+    return s / d
 
 
 print("Select operation.")
